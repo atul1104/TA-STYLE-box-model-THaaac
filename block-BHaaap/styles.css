@@ -83,6 +83,14 @@ p {
 .cat-img {
   width: 400px;
   height: 400px;
+  border-radius: 10%;
+  margin: 15px auto;
+}
+
+.circle{
+  background-color: red;
+  width: 400px;
+  height: 400px;
   border-radius: 50%;
   margin: 15px auto;
 }
@@ -91,7 +99,7 @@ p {
   background-color: #A1A1A1;
   padding: 20px;
   border-bottom: 3px;
-  border-color: red;
+  border-color: blue;
   border-bottom-style: dotted;
 }
 
